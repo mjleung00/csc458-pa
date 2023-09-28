@@ -1,17 +1,17 @@
 Programming Assignment 0 Writeup
 ====================
 
-My name: [your name here]
+My name: Jiabao Michael Leung
 
-My UTORID : [your utorid here]
+My UTORID : leungji6
 
-I collaborated with: [list utorids here]
+I collaborated with: n/a
 
-I would like to credit/thank these classmates for their help: [list utorids here]
+I would like to credit/thank these classmates for their help: n/a
 
-This programming assignment took me about [n] hours to do.
+This programming assignment took me about 6 hours to do.
 
-My public ip address output from webget was: [ip address here]
+My public ip address output from webget was:  REDACTED (ran this at home)
 
 - Optional: I had unexpected difficulty with: [describe]
 
